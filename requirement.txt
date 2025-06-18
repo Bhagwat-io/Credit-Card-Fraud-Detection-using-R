@@ -1,1 +1,34 @@
+# R Package Dependencies for Credit Card Fraud Detection Project
+# Install these packages using: install.packages(c("package1", "package2", ...))
 
+# Core Data Manipulation and Analysis
+dplyr
+
+# Machine Learning and Model Evaluation
+caret
+
+# Data Visualization
+ggplot2
+
+# Data Splitting and Sampling
+caTools
+
+# Handling Imbalanced Datasets
+ROSE
+smotefamily
+
+# Decision Trees
+rpart
+rpart.plot
+
+# Base R packages (usually pre-installed)
+# utils (for read.csv)
+# stats (for basic statistical functions)
+# graphics (for pie charts)
+
+# Installation Command:
+# install.packages(c("dplyr", "caret", "ggplot2", "caTools", "ROSE", "smotefamily", "rpart", "rpart.plot"))
+
+# Alternative installation for CRAN packages:
+# if (!require(pacman)) install.packages("pacman")
+# pacman::p_load(dplyr, caret, ggplot2, caTools, ROSE, smotefamily, rpart, rpart.plot)

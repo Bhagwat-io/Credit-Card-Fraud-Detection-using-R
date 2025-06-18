@@ -114,7 +114,7 @@ creditcard <- read.csv("path/to/your/creditcard.csv")
 ### Running the Analysis
 ```r
 # Run the complete analysis
-source("DS course Project.R")
+source("Code.R")
 ```
 
 ## 📊 Results
@@ -151,35 +151,10 @@ The project includes several visualizations:
 - [ ] Real-time prediction capability
 - [ ] Web application interface
 
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
 ## 🙏 Acknowledgments
 
 - Dataset providers for making fraud detection research possible
 - R community for excellent packages and documentation
 - Kaggle for hosting similar datasets and competitions
 
-## 📞 Contact
 
-For questions, suggestions, or collaborations, please reach out through GitHub issues or email.
-
----
-
-⭐ **Star this repository if you found it helpful!** ⭐
